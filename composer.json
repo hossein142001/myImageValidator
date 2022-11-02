@@ -1,0 +1,21 @@
+{
+    "name": "hossein142001/yii2-MyImageValidator",
+    "description": "Yii2 extension to help in the image validator for ratio and resolution",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","validator","ImageValidator","ratio","resolution","image"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "hossein abaei",
+            "email": "hossein142001@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "hossein142001\\MyImageValidator\\": ""
+        }
+    }
+}
