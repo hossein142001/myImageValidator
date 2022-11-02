@@ -12,13 +12,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-php composer.phar require --prefer-dist hossein142001/yii2-MyImageValidator "*"
+php composer.phar require --prefer-dist hossein142001/yii2-my-image-validator "*"
 ```
 
 or add
 
 ```
-"hossein142001/yii2-MyImageValidator": "*"
+"hossein142001/yii2-my-image-validator": "*"
 ```
 
 to the require section of your `composer.json` file.

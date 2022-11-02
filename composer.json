@@ -1,5 +1,5 @@
 {
-    "name": "hossein142001/yii2-MyImageValidator",
+    "name": "hossein142001/yii2-my-image-validator",
     "description": "Yii2 extension to help in the image validator for ratio and resolution",
     "type": "yii2-extension",
     "keywords": ["yii2","extension","validator","ImageValidator","ratio","resolution","image"],
