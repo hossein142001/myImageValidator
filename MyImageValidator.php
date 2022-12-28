@@ -1,8 +1,6 @@
 <?php
 
-namespace whc\education\components\validators;
-
-use whc\education\modules\v1\Module;
+namespace hossein142001\validators;
 use yii\validators\ImageValidator;
 
 class MyImageValidator extends ImageValidator
