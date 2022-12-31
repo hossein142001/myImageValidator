@@ -1,6 +1,6 @@
 <?php
 
-namespace hossein142001\validators;
+namespace hossein142001\MyImageValidator;
 use yii\validators\ImageValidator;
 
 class MyImageValidator extends ImageValidator
